@@ -1,10 +1,16 @@
-# Flutter/Dart
-build/
-.dart_tool/
-
-# IDE
+# IDE files
 .idea/
 .vscode/
 
-# Misc
-EcoSnap.tar.gz
+# Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# General
+*.iml
+*.last_build_id
+pubspec.lock
+.packages
+firebase-debug.log
