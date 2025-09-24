@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:smart_waste_segregation/widgets/placeholder_logo.dart';
 
 class LandingScreen extends StatelessWidget {
   const LandingScreen({super.key});
@@ -17,109 +18,69 @@ class LandingScreen extends StatelessWidget {
                 begin: Alignment.topLeft,
                 end: Alignment.bottomRight,
                 colors: [
-                  Colors.teal.shade50,
-                  Colors.green.shade100,
+                  Colors.teal.shade100,
+                  Colors.green.shade200,
                 ],
               ),
             ),
           ),
-          Positioned(
-            top: -100,
-            right: -100,
-            child: _buildDecorativeCircle(Colors.teal.shade200, 300),
-          ),
-          Positioned(
-            bottom: -150,
-            left: -150,
-            child: _buildDecorativeCircle(Colors.green.shade200, 400),
-          ),
-          SafeArea(
+          Center(
             child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                AppBar(
-                  backgroundColor: Colors.transparent,
-                  elevation: 0,
-                  title: Text(
-                    'EcoSnap',
-                    style: GoogleFonts.montserrat(
-                      fontWeight: FontWeight.bold,
-                      color: Theme.of(context).colorScheme.primary,
-                    ),
+                const PlaceholderLogo(size: 150),
+                const SizedBox(height: 30),
+                Text(
+                  'Welcome to EcoSnap!',
+                  style: GoogleFonts.montserrat(
+                    fontSize: 36,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
+                    shadows: [
+                      Shadow(
+                        blurRadius: 10.0,
+                        color: Colors.black.withAlpha(77),
+                        offset: const Offset(2.0, 2.0),
+                      ),
+                    ],
                   ),
-                  actions: [
-                    IconButton(
-                      icon: const Icon(Icons.logout, color: Colors.black54),
-                      onPressed: () => context.go('/login'),
-                    ),
-                  ],
+                  textAlign: TextAlign.center,
                 ),
-                Expanded(
-                  child: Padding(
-                    padding: const EdgeInsets.all(32.0),
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        const Spacer(flex: 2),
-                        Icon(
-                          Icons.recycling,
-                          size: 150,
-                          color: Theme.of(context).colorScheme.primary,
-                        ),
-                        const SizedBox(height: 20),
-                        Text(
-                          'Snap, Segregate, Sustain',
-                          textAlign: TextAlign.center,
-                          style: GoogleFonts.montserrat(
-                            fontSize: 36,
-                            fontWeight: FontWeight.bold,
-                            color: Theme.of(context).colorScheme.primary,
-                          ),
-                        ),
-                        const SizedBox(height: 10),
-                        Text(
-                          'Your guide to making a greener world, one piece of waste at a time.',
-                          textAlign: TextAlign.center,
-                          style: GoogleFonts.lato(
-                            fontSize: 18,
-                            color: Colors.grey[700],
-                          ),
-                        ),
-                        const Spacer(flex: 3),
-                        ElevatedButton.icon(
-                          onPressed: () => context.go('/camera'),
-                          icon: const Icon(Icons.camera_alt),
-                          label: const Text('Scan Waste'),
-                          style: ElevatedButton.styleFrom(
-                            padding: const EdgeInsets.symmetric(
-                              horizontal: 48,
-                              vertical: 20,
-                            ),
-                            textStyle: GoogleFonts.lato(
-                              fontSize: 20,
-                              fontWeight: FontWeight.bold,
-                            ),
-                          ),
-                        ),
-                        const Spacer(),
-                      ],
+                const SizedBox(height: 15),
+                Padding(
+                  padding: const EdgeInsets.symmetric(horizontal: 40.0),
+                  child: Text(
+                    "Your smart solution for waste segregation. Snap a picture, and we'll do the rest!",
+                    style: GoogleFonts.lato(
+                      fontSize: 18,
+                      color: Colors.white,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+                const SizedBox(height: 50),
+                ElevatedButton(
+                  onPressed: () {
+                    context.go('/camera');
+                  },
+                  style: ElevatedButton.styleFrom(
+                    foregroundColor: Colors.teal,
+                    backgroundColor: Colors.white,
+                    padding: const EdgeInsets.symmetric(horizontal: 50, vertical: 15),
+                    textStyle: GoogleFonts.lato(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(30),
                     ),
                   ),
+                  child: const Text('Scan Waste'),
                 ),
               ],
             ),
           ),
         ],
-      ),
-    );
-  }
-
-  Widget _buildDecorativeCircle(Color color, double size) {
-    return Container(
-      width: size,
-      height: size,
-      decoration: BoxDecoration(
-        color: color.withOpacity(0.3),
-        shape: BoxShape.circle,
       ),
     );
   }

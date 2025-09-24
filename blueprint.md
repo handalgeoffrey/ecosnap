@@ -3,33 +3,26 @@
 
 ## Overview
 
-EcoSnap is a mobile application designed to promote responsible waste management. Users log in to the app, use their device's camera to classify a piece of waste, and receive clear, actionable instructions on how to segregate and dispose of it properly.
+EcoSnap is a mobile application designed to help users easily identify and classify waste for proper disposal and recycling. By leveraging a smartphone's camera and a machine learning model, the app can instantly recognize different types of waste and provide users with information on how to dispose of it responsibly.
 
-## Style, Design, and Features
+## Implemented Features
 
-### 1. **Theme and Styling**
-- **Color Palette:** A sophisticated and modern palette featuring a deep teal (`#004D40`), complemented by softer greens, off-whites, and a vibrant accent color for calls-to-action.
-- **Typography:** `Montserrat` for bold, clean headings and `Lato` for readable, elegant body text. The typography will have a clear hierarchy to guide the user's eye.
-- **Layout:** A spacious, card-based design with an emphasis on clean lines, rounded corners, and consistent padding. I will use `Stack` and `Positioned` widgets to create depth and visual interest.
-- **Visual Elements:** Use of subtle gradients, soft drop shadows, and decorative background elements to create a premium, polished feel. Interactive elements will have a subtle "glow" effect.
-- **Iconography:** A unified set of high-quality Material Design icons.
-
-### 2. **Screens and Navigation**
-- **Login Screen:** A sleek, modern login screen with a custom-designed app logo and a focus on user experience.
-- **Landing Screen:** An inspiring and beautifully designed home screen that serves as a clear and inviting entry point to the app's main feature.
-- **Camera Screen:** A clean, user-friendly camera interface for capturing waste images.
-- **Result Screen:** A completely redesigned results page that presents information in clear, visually distinct cards for "Do's" and "Don'ts", making the advice easy to digest.
-
-### 3. **Core Features**
-- **User Authentication:** A simple, hardcoded login system for user access.
-- **Waste Classification:** Utilizes a mock service to classify waste from an image.
-- **Segregation Guidance:** Provides detailed do's and don'ts for disposing of the identified waste material in an easy-to-understand format.
+*   **Firebase Integration:** The app is connected to a Firebase project.
+*   **Camera Integration:** The app uses the device's camera to capture images of waste.
+*   **UI Foundation:** The app has a basic UI structure with a landing screen and a camera screen.
 
 ## Current Plan
 
-The current development focuses on a complete UI/UX overhaul to meet professional design standards.
+The previous goal of fixing the startup crash was successful, but it broke the application's navigation. The new plan is to restore all application functionality by implementing a robust navigation system.
 
-1.  **Redesign All Screens:** A complete visual redesign of the login, landing, camera, and result screens.
-2.  **Implement a New Theme:** Introduce a new, more sophisticated color palette and typography scheme.
-3.  **Create Custom Widgets:** Develop custom widgets, such as a placeholder logo and styled cards, to ensure a unique and branded feel.
-4.  **Refine Layout and Spacing:** Pay meticulous attention to alignment, padding, and spacing to create a balanced and harmonious user interface.
+### Steps:
+
+1.  **Implement a Router:** Create a centralized routing system using the `go_router` package.
+2.  **Define Routes:** Define routes for all existing screens:
+    *   `/` (Landing Screen)
+    *   `/login` (Login Screen)
+    *   `/camera` (Waste Scanner Screen)
+    *   `/results` (Results Screen)
+    *   `/map` (Map Screen)
+3.  **Integrate Router:** Connect the router to the main `MaterialApp` widget.
+4.  **Verify Navigation:** Ensure all buttons and navigation actions correctly move the user between screens.

@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 class PlaceholderLogo extends StatelessWidget {
@@ -23,7 +22,7 @@ class PlaceholderLogo extends StatelessWidget {
         ),
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.2),
+            color: Colors.black.withAlpha(51), // 0.2 opacity
             blurRadius: 10,
             offset: const Offset(0, 5),
           ),

@@ -1,50 +1,744 @@
+[debug] [2025-09-23T15:40:45.677Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.684Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.686Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.686Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.686Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.689Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.689Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.710Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.710Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.710Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.711Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.711Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.713Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.713Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.713Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.714Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.714Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.715Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.715Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.715Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.716Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.716Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.717Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.717Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.717Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.717Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.717Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.719Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.719Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.719Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.719Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.719Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.720Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.720Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.720Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.721Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.721Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.722Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.722Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.722Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.722Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.722Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.723Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.724Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.724Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.724Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.724Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.649Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.683Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.685Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.686Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.686Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.689Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.689Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.715Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.716Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.716Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.716Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.716Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.719Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.719Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.719Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.720Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.720Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.721Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.721Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.721Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.722Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.722Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.723Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.723Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.723Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.724Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.724Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.725Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.725Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.725Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.726Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.726Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.727Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.727Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.727Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.728Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.728Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.729Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.729Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.729Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.730Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.730Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.731Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.731Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.731Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.732Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.732Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.780Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-09-23T15:40:45.772Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.773Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T14:49:10.246Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:45.774Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.774Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.774Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.775Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.775Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.777Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.777Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.777Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.777Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.777Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.779Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.779Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.779Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.780Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.780Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.782Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.782Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.782Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.783Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.783Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.785Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.785Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.785Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.785Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.785Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.787Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.787Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.787Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.787Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.787Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.789Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.789Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.789Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.789Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.789Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.790Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.790Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.790Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.791Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.791Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.792Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.792Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.792Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.792Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.792Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.781Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:45.782Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.782Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.782Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.782Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.782Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.784Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.784Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.784Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.785Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.785Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.787Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.787Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.787Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.787Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.787Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.789Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.789Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.789Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.790Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.790Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.791Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.791Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.792Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.792Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.792Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.793Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.793Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.793Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.793Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.793Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.795Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.795Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.795Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.795Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.795Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.796Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.796Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.797Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.797Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.797Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.799Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.799Z] Checked if tokens are valid: false, expires at: 1758621923957
+[debug] [2025-09-23T15:40:45.799Z] > refreshing access token with scopes: []
+[debug] [2025-09-23T15:40:45.799Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-23T15:40:45.799Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.842Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.868Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.842Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.907Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-23T15:40:45.908Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.921Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.922Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.941Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-09-23T15:40:45.942Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.868Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.923Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-23T15:40:45.924Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.925Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.925Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.941Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [none]
+[debug] [2025-09-23T15:40:45.942Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.955Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.955Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.011Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.011Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.944Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.944Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:45.994Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [none]
+[debug] [2025-09-23T15:40:45.994Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:45.996Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:45.997Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.015Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.015Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.019Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.019Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.033Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.033Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.017Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.017Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.033Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.034Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.048Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.036Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.037Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.044Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.044Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.047Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.047Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.069Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-23T15:40:46.069Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.048Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.069Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.069Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.070Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.071Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.090Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.090Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.080Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.081Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.090Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.090Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.092Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.092Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.099Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.099Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.092Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.092Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.099Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.099Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.101Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.101Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.110Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.110Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.102Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.102Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.110Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.110Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.117Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.117Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.133Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.133Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.134Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.135Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.162Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-23T15:40:46.162Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.112Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.112Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.131Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.131Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.132Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.132Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.162Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.162Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.173Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.173Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.186Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-23T15:40:46.186Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.193Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.167Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.167Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.186Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.186Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.187Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.187Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.195Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.195Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.197Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.197Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.230Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.230Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.193Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.224Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.224Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.231Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.231Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.260Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-23T15:40:46.260Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.267Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.234Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.234Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.262Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.262Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.263Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.264Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.290Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-23T15:40:46.290Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.305Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.267Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.296Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.296Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.304Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.304Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.356Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.356Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.362Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.305Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.357Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.357Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.372Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.373Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.403Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.404Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.362Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.394Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-09-23T15:40:46.394Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.396Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-23T15:40:46.396Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-23T15:40:46.410Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-23T15:40:46.410Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-23T15:40:46.987Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-23T15:40:46.987Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-23T15:40:47.015Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-23T15:40:47.015Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-23T15:40:47.022Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com 200
+[debug] [2025-09-23T15:40:47.022Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.059Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com 200
+[debug] [2025-09-23T15:40:47.059Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.073Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-23T15:40:47.073Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.074Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-23T15:40:47.074Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.075Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com 200
+[debug] [2025-09-23T15:40:47.075Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.104Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-09-23T15:40:47.104Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.121Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-09-23T15:40:47.121Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.129Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com 200
+[debug] [2025-09-23T15:40:47.129Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.165Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-23T15:40:47.165Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.185Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-23T15:40:47.185Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.186Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-09-23T15:40:47.186Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.198Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-23T15:40:47.198Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.201Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com 200
+[debug] [2025-09-23T15:40:47.201Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.239Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com 200
+[debug] [2025-09-23T15:40:47.239Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com 200
+[debug] [2025-09-23T15:40:47.239Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.239Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.271Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-23T15:40:47.271Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.293Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-23T15:40:47.293Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.315Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-23T15:40:47.315Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.343Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com 200
+[debug] [2025-09-23T15:40:47.344Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-23T15:40:47.344Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.343Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.352Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-23T15:40:47.352Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.368Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-23T15:40:47.368Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-23T15:40:47.370Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com 200
+[debug] [2025-09-23T15:40:47.376Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-23T15:40:47.376Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-23T15:40:47.370Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.385Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-23T15:40:47.385Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.387Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com 200
+[debug] [2025-09-23T15:40:47.387Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/fcm.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.393Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com 200
+[debug] [2025-09-23T15:40:47.393Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/storage.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.415Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com 200
+[debug] [2025-09-23T15:40:47.415Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.424Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com 200
+[debug] [2025-09-23T15:40:47.424Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.430Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-23T15:40:47.430Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-23T15:40:47.586Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-23T15:40:47.586Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-23T15:40:47.586Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.588Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.589Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.589Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:47.602Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.603Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T14:49:16.555Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.604Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.604Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:47.605Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.606Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.607Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.607Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:47.687Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-23T15:40:47.687Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-23T15:40:47.692Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-23T15:40:47.693Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-23T15:40:47.729Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-23T15:40:47.730Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-23T15:40:47.730Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:47.732Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T14:49:16.571Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.733Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:47.733Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:50.930Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-09-23T15:40:50.937Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.931Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.939Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:50.939Z] > authorizing via signed-in user (handalroy828@gmail.com)
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.938Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.938Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:50.940Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:50.953Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.954Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.955Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:50.955Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-23T15:40:50.963Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T15:05:07.242Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:50.964Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-23T15:40:50.965Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-23T15:40:50.965Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:00.743Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-09-24T01:34:00.766Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.777Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.780Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.781Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.781Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.784Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.784Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.813Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.813Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.813Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.814Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.814Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.817Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.817Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.817Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.818Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.818Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.820Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.820Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.820Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.821Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.821Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.822Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.823Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.823Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.823Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.823Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.891Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.892Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T15:05:07.243Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:00.894Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.894Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.894Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.894Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.894Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.896Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.897Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.897Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.897Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.897Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.899Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.899Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.899Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.899Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.899Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.901Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.901Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.901Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.901Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.901Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.903Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.903Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.903Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.903Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.904Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.778Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.780Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.781Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.781Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.784Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.785Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.811Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.811Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.811Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.812Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.812Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.815Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.815Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.815Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.816Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.816Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.818Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.818Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.818Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.818Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.819Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.820Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.820Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.820Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.821Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.821Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.871Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:00.873Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-14T15:05:07.254Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:00.883Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.883Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.883Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.884Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.884Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.887Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.887Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.887Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.887Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.887Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.890Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.890Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.890Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.891Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.891Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.892Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.893Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.893Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.893Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.893Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.896Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.896Z] Checked if tokens are valid: false, expires at: 1758645645396
+[debug] [2025-09-24T01:34:00.896Z] > refreshing access token with scopes: []
+[debug] [2025-09-24T01:34:00.896Z] >>> [apiv2][query] POST https://www.googleapis.com/oauth2/v3/token [none]
+[debug] [2025-09-24T01:34:00.896Z] >>> [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.936Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.942Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.942Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.963Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-24T01:34:00.963Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:00.936Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.963Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-24T01:34:00.963Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:00.979Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.974Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.974Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.984Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-24T01:34:00.984Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:00.979Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.988Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-24T01:34:00.988Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:00.987Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.987Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:00.997Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-24T01:34:00.997Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.003Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.004Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.013Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-24T01:34:01.013Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:00.993Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:00.993Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.007Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-24T01:34:01.007Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.012Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.012Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.024Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-24T01:34:01.024Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.016Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.016Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.027Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [none]
+[debug] [2025-09-24T01:34:01.027Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.043Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.056Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.043Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.059Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.059Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.069Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.070Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.082Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.082Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.089Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.057Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.082Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [none]
+[debug] [2025-09-24T01:34:01.082Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.085Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.085Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.098Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.098Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.101Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.101Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.112Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.113Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.089Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.102Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.102Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.108Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.109Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.120Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.120Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.134Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.135Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.145Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.145Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.116Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.116Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.123Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.123Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.125Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.125Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.134Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.134Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:01.137Z] <<< [apiv2][status] POST https://www.googleapis.com/oauth2/v3/token 200
+[debug] [2025-09-24T01:34:01.137Z] <<< [apiv2][body] POST https://www.googleapis.com/oauth2/v3/token [omitted]
+[debug] [2025-09-24T01:34:01.145Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-09-24T01:34:01.145Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/ecosnap-bb319
+[debug] [2025-09-24T01:34:02.000Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-24T01:34:02.000Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-24T01:34:02.027Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-24T01:34:02.027Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-24T01:34:02.066Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-24T01:34:02.067Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-24T01:34:02.101Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-24T01:34:02.101Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.105Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-24T01:34:02.105Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.120Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-24T01:34:02.120Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.125Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-24T01:34:02.125Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.135Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-24T01:34:02.135Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.148Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-24T01:34:02.148Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.151Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com 403
+[debug] [2025-09-24T01:34:02.151Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseio.com [omitted]
+[debug] [2025-09-24T01:34:02.154Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-24T01:34:02.155Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.160Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-24T01:34:02.160Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.175Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-24T01:34:02.176Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.183Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-09-24T01:34:02.183Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.184Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com 200
+[debug] [2025-09-24T01:34:02.184Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.188Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com 200
+[debug] [2025-09-24T01:34:02.188Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/firebasecrashlytics.googleapis.com [omitted]
+[debug] [2025-09-24T01:34:02.423Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-24T01:34:02.423Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-24T01:34:02.423Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-24T01:34:02.423Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-24T01:34:02.424Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.427Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.428Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:02.429Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:02.440Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.443Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.443Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:02.444Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:02.446Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.448Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-15T04:57:01.682Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:02.449Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:02.449Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:02.485Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-24T01:34:02.486Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-24T01:34:02.493Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ 200
+[debug] [2025-09-24T01:34:02.493Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/ecosnap-bb319/services/ [omitted]
+[debug] [2025-09-24T01:34:02.494Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.497Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:02.499Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:02.499Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:04.809Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.811Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
-[debug] [2025-09-15T04:57:01.744Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:04.814Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:04.815Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:04.821Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2025-09-24T01:34:04.824Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.822Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.823Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:04.823Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[debug] [2025-09-24T01:34:04.828Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.829Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.832Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:04.832Z] > authorizing via signed-in user (handalroy828@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.829Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-09-24T01:34:04.830Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-09-24T01:34:04.830Z] > authorizing via signed-in user (handalroy828@gmail.com)

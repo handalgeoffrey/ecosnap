@@ -1,16 +1,40 @@
-# IDE files
-.idea/
-.vscode/
-
-# Flutter/Dart
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
 build/
-.dart_tool/
+coverage/
+dist/
+doc/api/
+project.xcworkspace
+
+# Android
+.gradle/
+local.properties
+
+# Flutter
 .flutter-plugins
 .flutter-plugins-dependencies
-
-# General
-*.iml
-*.last_build_id
-pubspec.lock
 .packages
-firebase-debug.log
+.pub-cache/
+.pub/
+build/
+
+# Dart
+.dart_tool/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Secrets
+lib/secrets.dart
