@@ -1,0 +1,19 @@
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sensitive files
+lib/firebase_options.dart
+
+# Internal development files
+GEMINI.md
